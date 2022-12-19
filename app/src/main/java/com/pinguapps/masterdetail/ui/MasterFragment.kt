@@ -12,7 +12,7 @@ import com.pinguapps.masterdetail.R
 import com.pinguapps.masterdetail.util.isTablet
 
 class MasterFragment : Fragment() {
-    
+
     private val masterViewModel: MasterViewModel by activityViewModels()
 
     override fun onCreateView(
